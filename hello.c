@@ -5,6 +5,6 @@
 
 int main() {
     printf("Hello, World!\n");
-    greet("Vaibhavi");
+    greet("Ada");
     return 0;
 }
